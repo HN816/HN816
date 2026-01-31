@@ -8,7 +8,7 @@
 
 
 #### Fun Facts
-- Built a **[Top Gun Fan Site](https://topgun-fansite.web.app/)** as my first project out of pure love for the movie. (No AI back then... 😭🛠️)
+- Built a **[Top Gun Fan Site](https://topgun-fansite.web.app/)** as my **very first** project out of pure love for the movie. (No AI back then... 😭🛠️)
 - Algorithms are too hard... <a href="https://solved.ac/profile/hycse21"><img src="https://img.shields.io/badge/Gold_IV-555555?style=flat-square&logo=solved.ac&logoColor=white" align="center"></a>
 - Twice is a pass. By the third time, I'm building a tool.
 
