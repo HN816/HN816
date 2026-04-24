@@ -1,21 +1,37 @@
-# 고객지원 (Support)
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Customer Support - HN816</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 40px; max-width: 800px; margin: auto; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .section { margin-bottom: 30px; padding: 20px; background: #f9f9f9; border-radius: 8px; }
+        a { color: #007bff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>고객지원 (Support)</h1>
 
+    <div class="section">
+        <h2>🇰🇷 한국어</h2>
+        <p>안녕하세요! 서비스를 이용해 주셔서 감사합니다. 앱 사용 중 궁금한 점이나 도움이 필요하시면 아래 메일로 문의해 주세요.</p>
+        <ul>
+            <li><strong>이메일:</strong> <a href="mailto:hein4330@gmail.com">hein4330@gmail.com</a></li>
+            <li><strong>답변 시간:</strong> 평일 기준 24시간 이내</li>
+        </ul>
+    </div>
 
-안녕하세요! 서비스를 이용해 주셔서 감사합니다.  
-앱 사용 중 궁금한 점이나 도움이 필요하시면 아래 내용을 확인해 주세요.
+    <div class="section">
+        <h2>🇺🇸 English</h2>
+        <p>Thank you for using our service! If you have any questions or need assistance, please contact us via email below.</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:hein4330@gmail.com">hein4330@gmail.com</a></li>
+            <li><strong>Response Time:</strong> Within 24 hours on weekdays</li>
+        </ul>
+    </div>
 
-Thank you for using our service!  
-If you have any questions or need assistance while using the app, please check the details below.
-
----
-
-### 📧 문의하기(Contact)
-문제가 발생했거나 제안하고 싶은 기능이 있다면 언제든 메일을 보내주세요.<br/>
-If you encounter any issues or have suggestions for new features, please feel free to email us.
-
-* **이메일(Email):** [hein4330@gmail.com](mailto:hein4330@gmail.com)
-* **답변 시간(Response Time):** 평일 기준 24시간 이내. Within 24 hours on weekdays.
-
-
----
-© 2026 HN816. All rights reserved.
+    <hr>
+    <p>© 2026 HN816. All rights reserved.</p>
+</body>
+</html>
